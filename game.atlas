@@ -1,0 +1,12 @@
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/The Ottoman Empire
+  rotate: false
+  xy: 454, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
